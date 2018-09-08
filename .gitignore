@@ -1,0 +1,13 @@
+*.class
+bin/
+build/
+out/
+
+.settings
+project/
+
+*.iml
+idea/
+
+__pycache__/
+*.pyc
